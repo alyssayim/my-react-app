@@ -10,6 +10,16 @@ export default function Board() {
     <Square />
     <Square />
     </div>
+    <div className="board-row">
+    <Square />
+    <Square />
+    <Square />
+    </div>
+    <div className="board-row">
+    <Square />
+    <Square />
+    <Square />
+    </div>
     </>
   );
 }
